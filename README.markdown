@@ -38,6 +38,7 @@ ruby-simplepp is a module to simple string pretty print of hash/array structures
 
 ## Changelog:
 
++ __0.0.2__: symbols displayed as symbols, empty hashes/arrays are not newlined
 + __0.0.1__: first revision of simple pretty print
 
 ## License:
